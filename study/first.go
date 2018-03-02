@@ -7,6 +7,6 @@ import (
 var con string = "my first"
 
 func main() {
-	fmt.Println("this is my first golang file".con)
+	fmt.Println("this is my first golang file"con)
 
 }
